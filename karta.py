@@ -16,10 +16,10 @@ class Karta:
     def read_data(self):
         """
         """
-        with open('SL-map/linje_information.json', 'r') as file:
+        with open('linje_information.json', 'r') as file:
             self.linje_information = json.load(file)
         
-        with open('SL-map/linjer_och_stationer.json', 'r') as file:
+        with open('linjer_och_stationer.json', 'r') as file:
             self.stationer = json.load(file)
             
         
