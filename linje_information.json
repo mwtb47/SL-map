@@ -1,0 +1,94 @@
+{
+    "T10": {
+        "colour": "rgb(55,140,200)",
+        "name": "Blå linje - T10"
+    },
+    "T11": {
+        "colour": "rgb(55,140,200)",
+        "name": "Blå linje - T11"
+    },
+    "T13": {
+        "colour": "rgb(200,45,40)",
+        "name": "Röd linje - T13"
+    },
+    "T14": {
+        "colour": "rgb(200,45,40)",
+        "name": "Röd linje - T14"
+    },
+    "T17": {
+        "colour": "rgb(70,160,80)",
+        "name": "Grön linje - T17"
+    },
+    "T18": {
+        "colour": "rgb(70,160,80)",
+        "name": "Grön linje - T18"
+    },
+    "T19": {
+        "colour": "rgb(70,160,80)",
+        "name": "Grön linje - T19"
+    },
+    "Linje 40": {
+        "colour": "rgb(220,110,160)",
+        "name": "Pendeltåg - Linje 40"
+    },
+    "Linje 41": {
+        "colour": "rgb(220,110,160)",
+        "name": "Pendeltåg - Linje 41"
+    },
+    "Linje 42": {
+        "colour": "rgb(220,110,160)",
+        "name": "Pendeltåg - Linje 42"
+    },
+    "Linje 43": {
+        "colour": "rgb(220,110,160)",
+        "name": "Pendeltåg - Linje 43"
+    },
+    "Linje 44": {
+        "colour": "rgb(220,110,160)",
+        "name": "Pendeltåg - Linje 44"
+    },
+    "Linje 48": {
+        "colour": "rgb(220,110,160)",
+        "name": "Pendeltåg - Linje 48"
+    },
+    "Linje 7": {
+        "colour": "rgb(110,110,110)",
+        "name": "Spårväg city - Linje 7"
+    },
+    "Linje 12": {
+        "colour": "rgb(120,140,160)",
+        "name": "Nockebybanan - Linje 12"
+    },
+    "Linje 21": {
+        "colour": "rgb(170,100,150)",
+        "name": "Lidingöbanan - Linje 21"
+    },
+    "Linje 25": {
+        "colour": "rgb(65,150,170)",
+        "name": "Saltsjöbanan - Linje 25"
+    },
+    "Linje 26": {
+        "colour": "rgb(65,150,170)",
+        "name": "Saltsjöbanan - Linje 26"
+    },
+    "Linje 27": {
+        "colour": "rgb(150,90,140)",
+        "name": "Roslagsbanan - Linje 27"
+    },
+    "Linje 28": {
+        "colour": "rgb(150,90,140)",
+        "name": "Roslagsbanan - Linje 28"
+    },
+    "Linje 29": {
+        "colour": "rgb(150,90,140)",
+        "name": "Roslagsbanan - Linje 29"
+    },
+    "Linje 30": {
+        "colour": "rgb(220,140,50)",
+        "name": "Tvärbanan - Linje 30"
+    },
+    "Linje 31": {
+        "colour": "rgb(220,140,50)",
+        "name": "Tvärbanan - Linje 31"
+    }
+}
