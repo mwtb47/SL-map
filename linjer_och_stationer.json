@@ -1,0 +1,1690 @@
+{
+    "tunnelbana": {
+        "T10": {
+            "Hjulsta": {
+                "latitude": 59.3962799,
+                "longitude": 17.8880969
+            },
+            "Tensta": {
+                "latitude": 59.3947666,
+                "longitude": 17.8996949
+            },
+            "Rinkeby": {
+                "latitude": 59.3882541,
+                "longitude": 17.9283805
+            },
+            "Rissne": {
+                "latitude": 59.3755892,
+                "longitude": 17.9402175
+            },
+            "Duvbo": {
+                "latitude": 59.3675643,
+                "longitude": 17.9648787
+            },
+            "Sundbybergs centrum": {
+                "latitude": 59.3606718,
+                "longitude": 17.9724502
+            },
+            "Solna strand": {
+                "latitude": 59.3544635,
+                "longitude": 17.9731887
+            },
+            "Huvudsta": {
+                "latitude": 59.3496118,
+                "longitude": 17.9870127
+            },
+            "Västra skogen": {
+                "latitude": 59.347353,
+                "longitude": 18.0038714
+            },
+            "Stadshagen": {
+                "latitude": 59.3368947,
+                "longitude": 18.0171106
+            },
+            "Fridhemsplan": {
+                "latitude": 59.3329484,
+                "longitude": 18.0310548
+            },
+            "Rådhuset": {
+                "latitude": 59.3301832,
+                "longitude": 18.0417446
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Kungsträdgården": {
+                "latitude": 59.3308394,
+                "longitude": 18.071054
+            }
+        },
+        "T11": {
+            "Akalla": {
+                "latitude": 59.4155814,
+                "longitude": 17.9132189
+            },
+            "Husby": {
+                "latitude": 59.4081848,
+                "longitude": 17.9286653
+            },
+            "Kista": {
+                "latitude": 59.4029202,
+                "longitude": 17.9427547
+            },
+            "Hallonbergen": {
+                "latitude": 59.3744594,
+                "longitude": 17.969111
+            },
+            "Näckrosen": {
+                "latitude": 59.3675751,
+                "longitude": 17.9817921
+            },
+            "Solna centrum": {
+                "latitude": 59.3595058,
+                "longitude": 17.9978246
+            },
+            "Västra skogen": {
+                "latitude": 59.347353,
+                "longitude": 18.0038714
+            },
+            "Stadshagen": {
+                "latitude": 59.3368947,
+                "longitude": 18.0171106
+            },
+            "Fridhemsplan": {
+                "latitude": 59.3329484,
+                "longitude": 18.0310548
+            },
+            "Rådhuset": {
+                "latitude": 59.3301832,
+                "longitude": 18.0417446
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Kungsträdgården": {
+                "latitude": 59.3308394,
+                "longitude": 18.071054
+            }
+        },
+        "T13": {
+            "Ropsten": {
+                "latitude": 59.3573561,
+                "longitude": 18.1023962
+            },
+            "Gärdet": {
+                "latitude": 59.3458768,
+                "longitude": 18.0988773
+            },
+            "Karlaplan": {
+                "latitude": 59.3397516,
+                "longitude": 18.0922947
+            },
+            "Östermalmstorg": {
+                "latitude": 59.3354775,
+                "longitude": 18.0776894
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Gamla stan": {
+                "latitude": 59.3233049,
+                "longitude": 18.0670022
+            },
+            "Slussen": {
+                "latitude": 59.3193166,
+                "longitude": 18.0722002
+            },
+            "Mariatorget": {
+                "latitude": 59.3171154,
+                "longitude": 18.0604746
+            },
+            "Zinkensdamm": {
+                "latitude": 59.3178312,
+                "longitude": 18.0491884
+            },
+            "Hornstull": {
+                "latitude": 59.3164202,
+                "longitude": 18.0367108
+            },
+            "Liljeholmen": {
+                "latitude": 59.3107439,
+                "longitude": 18.023132
+            },
+            "Aspudden": {
+                "latitude": 59.3065758,
+                "longitude": 18.0023923
+            },
+            "Örnsberg": {
+                "latitude": 59.3053364,
+                "longitude": 17.9877014
+            },
+            "Axelsberg": {
+                "latitude": 59.3043246,
+                "longitude": 17.9744141
+            },
+            "Mälarhöjden": {
+                "latitude": 59.3009642,
+                "longitude": 17.9557798
+            },
+            "Bredäng": {
+                "latitude": 59.2947832,
+                "longitude": 17.9334371
+            },
+            "Sätra": {
+                "latitude": 59.2857597,
+                "longitude": 17.9216691
+            },
+            "Skärholmen": {
+                "latitude": 59.2769204,
+                "longitude": 17.9067517
+            },
+            "Vårberg": {
+                "latitude": 59.2758872,
+                "longitude": 17.889953
+            },
+            "Vårby gård": {
+                "latitude": 59.2650802,
+                "longitude": 17.8836637
+            },
+            "Masmo": {
+                "latitude": 59.249777,
+                "longitude": 17.8814969
+            },
+            "Fittja": {
+                "latitude": 59.2473595,
+                "longitude": 17.8607008
+            },
+            "Alby": {
+                "latitude": 59.2391772,
+                "longitude": 17.8450902
+            },
+            "Hallunda": {
+                "latitude": 59.2433117,
+                "longitude": 17.8251324
+            },
+            "Norsborg": {
+                "latitude": 59.2439038,
+                "longitude": 17.8127308
+            }
+        },
+        "T14": {
+            "Mörby centrum": {
+                "latitude": 59.3985848,
+                "longitude": 18.0363962
+            },
+            "Danderyds sjukhus": {
+                "latitude": 59.3909508,
+                "longitude": 18.041963
+            },
+            "Bergshamra": {
+                "latitude": 59.3807025,
+                "longitude": 18.0374037
+            },
+            "Universitetet": {
+                "latitude": 59.3649999,
+                "longitude": 18.0542982
+            },
+            "Tekniska högskolan": {
+                "latitude": 59.3457935,
+                "longitude": 18.0708628
+            },
+            "Stadion": {
+                "latitude": 59.3422852,
+                "longitude": 18.080447
+            },
+            "Östermalmstorg": {
+                "latitude": 59.3354775,
+                "longitude": 18.0776894
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Gamla stan": {
+                "latitude": 59.3233049,
+                "longitude": 18.0670022
+            },
+            "Slussen": {
+                "latitude": 59.3193166,
+                "longitude": 18.0722002
+            },
+            "Mariatorget": {
+                "latitude": 59.3171154,
+                "longitude": 18.0604746
+            },
+            "Zinkensdamm": {
+                "latitude": 59.3178312,
+                "longitude": 18.0491884
+            },
+            "Hornstull": {
+                "latitude": 59.3164202,
+                "longitude": 18.0367108
+            },
+            "Liljeholmen": {
+                "latitude": 59.3107439,
+                "longitude": 18.023132
+            },
+            "Midsommarkransen": {
+                "latitude": 59.3016109,
+                "longitude": 18.0109969
+            },
+            "Telefonplan": {
+                "latitude": 59.2983614,
+                "longitude": 17.9981996
+            },
+            "Hägerstensåsen": {
+                "latitude": 59.294998,
+                "longitude": 17.9779191
+            },
+            "Västertorp": {
+                "latitude": 59.2913152,
+                "longitude": 17.966692
+            },
+            "Fruängen": {
+                "latitude": 59.2864677,
+                "longitude": 17.964876
+            }
+        },
+        "T17": {
+            "Åkeshov": {
+                "latitude": 59.3421394,
+                "longitude": 17.9242192
+            },
+            "Brommaplan": {
+                "latitude": 59.3382828,
+                "longitude": 17.9396936
+            },
+            "Abrahamsberg": {
+                "latitude": 59.3364679,
+                "longitude": 17.9537633
+            },
+            "Stora mossen": {
+                "latitude": 59.3345554,
+                "longitude": 17.9660645
+            },
+            "Alvik": {
+                "latitude": 59.3334008,
+                "longitude": 17.9822792
+            },
+            "Kristineberg": {
+                "latitude": 59.3325611,
+                "longitude": 18.0041091
+            },
+            "Thorildsplan": {
+                "latitude": 59.3314466,
+                "longitude": 18.0143186
+            },
+            "Fridhemsplan": {
+                "latitude": 59.3329484,
+                "longitude": 18.0310548
+            },
+            "Sankt Eriksplan": {
+                "latitude": 59.3405394,
+                "longitude": 18.0372227
+            },
+            "Odenplan": {
+                "latitude": 59.3429891,
+                "longitude": 18.0479301
+            },
+            "Rådmansgatan": {
+                "latitude": 59.3402737,
+                "longitude": 18.0590682
+            },
+            "Hötorget": {
+                "latitude": 59.3358309,
+                "longitude": 18.0632652
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Gamla stan": {
+                "latitude": 59.3233049,
+                "longitude": 18.0670022
+            },
+            "Slussen": {
+                "latitude": 59.3193166,
+                "longitude": 18.0722002
+            },
+            "Medborgarplatsen": {
+                "latitude": 59.3151746,
+                "longitude": 18.0732073
+            },
+            "Skanstull": {
+                "latitude": 59.308699,
+                "longitude": 18.075958
+            },
+            "Gullmarsplan": {
+                "latitude": 59.2995292,
+                "longitude": 18.0806392
+            },
+            "Skärmarbrink": {
+                "latitude": 59.2957281,
+                "longitude": 18.0898804
+            },
+            "Hammarbyhöjden": {
+                "latitude": 59.294805,
+                "longitude": 18.1043275
+            },
+            "Björkhagen": {
+                "latitude": 59.291204,
+                "longitude": 18.1154858
+            },
+            "Kärrtorp": {
+                "latitude": 59.2841561,
+                "longitude": 18.1146325
+            },
+            "Bagarmossen": {
+                "latitude": 59.2761858,
+                "longitude": 18.13134
+            },
+            "Skarpnäck": {
+                "latitude": 59.2664372,
+                "longitude": 18.1330727
+            }
+        },
+        "T18": {
+            "Alvik": {
+                "latitude": 59.3334008,
+                "longitude": 17.9822792
+            },
+            "Kristineberg": {
+                "latitude": 59.3325611,
+                "longitude": 18.0041091
+            },
+            "Thorildsplan": {
+                "latitude": 59.3314466,
+                "longitude": 18.0143186
+            },
+            "Fridhemsplan": {
+                "latitude": 59.3329484,
+                "longitude": 18.0310548
+            },
+            "Sankt Eriksplan": {
+                "latitude": 59.3405394,
+                "longitude": 18.0372227
+            },
+            "Odenplan": {
+                "latitude": 59.3429891,
+                "longitude": 18.0479301
+            },
+            "Rådmansgatan": {
+                "latitude": 59.3402737,
+                "longitude": 18.0590682
+            },
+            "Hötorget": {
+                "latitude": 59.3358309,
+                "longitude": 18.0632652
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Gamla stan": {
+                "latitude": 59.3233049,
+                "longitude": 18.0670022
+            },
+            "Slussen": {
+                "latitude": 59.3193166,
+                "longitude": 18.0722002
+            },
+            "Medborgarplatsen": {
+                "latitude": 59.3151746,
+                "longitude": 18.0732073
+            },
+            "Skanstull": {
+                "latitude": 59.308699,
+                "longitude": 18.075958
+            },
+            "Gullmarsplan": {
+                "latitude": 59.2995292,
+                "longitude": 18.0806392
+            },
+            "Skärmarbrink": {
+                "latitude": 59.2957281,
+                "longitude": 18.0898804
+            },
+            "Blåsut": {
+                "latitude": 59.2905028,
+                "longitude": 18.0911605
+            },
+            "Sandsborg": {
+                "latitude": 59.2856892,
+                "longitude": 18.0919812
+            },
+            "Skogskyrkogården": {
+                "latitude": 59.2786934,
+                "longitude": 18.0953984
+            },
+            "Tallkrogen": {
+                "latitude": 59.2715291,
+                "longitude": 18.0860589
+            },
+            "Gubbängen": {
+                "latitude": 59.2636202,
+                "longitude": 18.0820785
+            },
+            "Hökarängen": {
+                "latitude": 59.2573192,
+                "longitude": 18.0828456
+            },
+            "Farsta": {
+                "latitude": 59.243353,
+                "longitude": 18.0939285
+            },
+            "Farsta strand": {
+                "latitude": 59.2350494,
+                "longitude": 18.1020664
+            }
+        },
+        "T19": {
+            "Hässelby strand": {
+                "latitude": 59.3613588,
+                "longitude": 17.8323627
+            },
+            "Hässelby gård": {
+                "latitude": 59.3669672,
+                "longitude": 17.8439084
+            },
+            "Johannelund": {
+                "latitude": 59.3679477,
+                "longitude": 17.8578532
+            },
+            "Vällingby": {
+                "latitude": 59.3639335,
+                "longitude": 17.8708429
+            },
+            "Råcksta": {
+                "latitude": 59.3549132,
+                "longitude": 17.8818481
+            },
+            "Blackeberg": {
+                "latitude": 59.3484727,
+                "longitude": 17.8826992
+            },
+            "Islandstorget": {
+                "latitude": 59.3459382,
+                "longitude": 17.8937453
+            },
+            "Ängbyplan": {
+                "latitude": 59.3418894,
+                "longitude": 17.9074126
+            },
+            "Åkeshov": {
+                "latitude": 59.3421394,
+                "longitude": 17.9242192
+            },
+            "Brommaplan": {
+                "latitude": 59.3382828,
+                "longitude": 17.9396936
+            },
+            "Abrahamsberg": {
+                "latitude": 59.3364679,
+                "longitude": 17.9537633
+            },
+            "Stora mossen": {
+                "latitude": 59.3345554,
+                "longitude": 17.9660645
+            },
+            "Alvik": {
+                "latitude": 59.3334008,
+                "longitude": 17.9822792
+            },
+            "Kristineberg": {
+                "latitude": 59.3325611,
+                "longitude": 18.0041091
+            },
+            "Thorildsplan": {
+                "latitude": 59.3314466,
+                "longitude": 18.0143186
+            },
+            "Fridhemsplan": {
+                "latitude": 59.3329484,
+                "longitude": 18.0310548
+            },
+            "Sankt Eriksplan": {
+                "latitude": 59.3405394,
+                "longitude": 18.0372227
+            },
+            "Odenplan": {
+                "latitude": 59.3429891,
+                "longitude": 18.0479301
+            },
+            "Rådmansgatan": {
+                "latitude": 59.3402737,
+                "longitude": 18.0590682
+            },
+            "Hötorget": {
+                "latitude": 59.3358309,
+                "longitude": 18.0632652
+            },
+            "T-Centralen": {
+                "latitude": 59.3318941,
+                "longitude": 18.060944
+            },
+            "Gamla stan": {
+                "latitude": 59.3233049,
+                "longitude": 18.0670022
+            },
+            "Slussen": {
+                "latitude": 59.3193166,
+                "longitude": 18.0722002
+            },
+            "Medborgarplatsen": {
+                "latitude": 59.3151746,
+                "longitude": 18.0732073
+            },
+            "Skanstull": {
+                "latitude": 59.308699,
+                "longitude": 18.075958
+            },
+            "Gullmarsplan": {
+                "latitude": 59.2995292,
+                "longitude": 18.0806392
+            },
+            "Globen": {
+                "latitude": 59.2940576,
+                "longitude": 18.0767849
+            },
+            "Enskede gård": {
+                "latitude": 59.2892869,
+                "longitude": 18.0702041
+            },
+            "Sockenplan": {
+                "latitude": 59.2829955,
+                "longitude": 18.0702825
+            },
+            "Svedmyra": {
+                "latitude": 59.2774915,
+                "longitude": 18.0671282
+            },
+            "Stureby": {
+                "latitude": 59.2746446,
+                "longitude": 18.055816
+            },
+            "Bandhagen": {
+                "latitude": 59.2703049,
+                "longitude": 18.0495879
+            },
+            "Högdalen": {
+                "latitude": 59.2637643,
+                "longitude": 18.0430573
+            },
+            "Rågsved": {
+                "latitude": 59.2566889,
+                "longitude": 18.0284454
+            },
+            "Hagsätra": {
+                "latitude": 59.2625476,
+                "longitude": 18.012769
+            }
+        }
+    },
+    "pendeltåg": {
+        "Linje 40": {
+            "Uppsala C": {
+                "latitude": 59.85821,
+                "longitude": 17.64658
+            },
+            "Knivsta": {
+                "latitude": 59.7259045,
+                "longitude": 17.786629
+            },
+            "Arlanda C": {
+                "latitude": 59.6494271,
+                "longitude": 17.9285005
+            },
+            "Upplands Väsby": {
+                "latitude": 59.520878,
+                "longitude": 17.8990206
+            },
+            "Rotebro": {
+                "latitude": 59.4758766,
+                "longitude": 17.9146441
+            },
+            "Norrviken": {
+                "latitude": 59.4591148,
+                "longitude": 17.9242787
+            },
+            "Häggvik": {
+                "latitude": 59.4437915,
+                "longitude": 17.9328751
+            },
+            "Sollentuna": {
+                "latitude": 59.4283893,
+                "longitude": 17.94845
+            },
+            "Helenelund": {
+                "latitude": 59.4090374,
+                "longitude": 17.9623526
+            },
+            "Ulriksdal": {
+                "latitude": 59.3807703,
+                "longitude": 18.0003755
+            },
+            "Solna": {
+                "latitude": 59.3664864,
+                "longitude": 18.0096279
+            },
+            "Stockholm Odenplan": {
+                "latitude": 59.3434553,
+                "longitude": 18.0455108
+            },
+            "Stockholm City": {
+                "latitude": 59.3319942,
+                "longitude": 18.0589031
+            },
+            "Stockholms södra": {
+                "latitude": 59.3133461,
+                "longitude": 18.0605613
+            },
+            "Årstaberg": {
+                "latitude": 59.2996092,
+                "longitude": 18.0280784
+            },
+            "Älvsjö": {
+                "latitude": 59.2785472,
+                "longitude": 18.011089
+            },
+            "Stuvsta": {
+                "latitude": 59.2542042,
+                "longitude": 17.9967712
+            },
+            "Huddinge": {
+                "latitude": 59.2362397,
+                "longitude": 17.9787254
+            },
+            "Flemingsberg": {
+                "latitude": 59.2185965,
+                "longitude": 17.9465879
+            },
+            "Tullinge": {
+                "latitude": 59.2054514,
+                "longitude": 17.9042391
+            },
+            "Tumba": {
+                "latitude": 59.1996086,
+                "longitude": 17.8363075
+            },
+            "Rönninge": {
+                "latitude": 59.1935249,
+                "longitude": 17.7503302
+            },
+            "Östertälje": {
+                "latitude": 59.1850559,
+                "longitude": 17.6585021
+            },
+            "Södertälje hamn": {
+                "latitude": 59.1784463,
+                "longitude": 17.6469248
+            },
+            "Södertälje C": {
+                "latitude": 59.1915963,
+                "longitude": 17.6277049
+            }
+        },
+        "Linje 41": {
+            "Märsta": {
+                "latitude": 59.6280853,
+                "longitude": 17.8610195
+            },
+            "Rosersberg": {
+                "latitude": 59.583774,
+                "longitude": 17.8800288
+            },
+            "Upplands Väsby": {
+                "latitude": 59.520878,
+                "longitude": 17.8990206
+            },
+            "Rotebro": {
+                "latitude": 59.4758766,
+                "longitude": 17.9146441
+            },
+            "Norrviken": {
+                "latitude": 59.4591148,
+                "longitude": 17.9242787
+            },
+            "Häggvik": {
+                "latitude": 59.4437915,
+                "longitude": 17.9328751
+            },
+            "Sollentuna": {
+                "latitude": 59.4283893,
+                "longitude": 17.94845
+            },
+            "Helenelund": {
+                "latitude": 59.4090374,
+                "longitude": 17.9623526
+            },
+            "Ulriksdal": {
+                "latitude": 59.3807703,
+                "longitude": 18.0003755
+            },
+            "Solna": {
+                "latitude": 59.3664864,
+                "longitude": 18.0096279
+            },
+            "Stockholm Odenplan": {
+                "latitude": 59.3434553,
+                "longitude": 18.0455108
+            },
+            "Stockholm City": {
+                "latitude": 59.3319942,
+                "longitude": 18.0589031
+            },
+            "Stockholms södra": {
+                "latitude": 59.3133461,
+                "longitude": 18.0605613
+            },
+            "Årstaberg": {
+                "latitude": 59.2996092,
+                "longitude": 18.0280784
+            },
+            "Älvsjö": {
+                "latitude": 59.2785472,
+                "longitude": 18.011089
+            },
+            "Stuvsta": {
+                "latitude": 59.2542042,
+                "longitude": 17.9967712
+            },
+            "Huddinge": {
+                "latitude": 59.2362397,
+                "longitude": 17.9787254
+            },
+            "Flemingsberg": {
+                "latitude": 59.2185965,
+                "longitude": 17.9465879
+            },
+            "Tullinge": {
+                "latitude": 59.2054514,
+                "longitude": 17.9042391
+            },
+            "Tumba": {
+                "latitude": 59.1996086,
+                "longitude": 17.8363075
+            },
+            "Rönninge": {
+                "latitude": 59.1935249,
+                "longitude": 17.7503302
+            },
+            "Östertälje": {
+                "latitude": 59.1850559,
+                "longitude": 17.6585021
+            },
+            "Södertälje hamn": {
+                "latitude": 59.1784463,
+                "longitude": 17.6469248
+            },
+            "Södertälje C": {
+                "latitude": 59.1915963,
+                "longitude": 17.6277049
+            }
+        },
+        "Linje 42": {
+            "Märsta": {
+                "latitude": 59.6280853,
+                "longitude": 17.8610195
+            },
+            "Rosersberg": {
+                "latitude": 59.583774,
+                "longitude": 17.8800288
+            },
+            "Upplands Väsby": {
+                "latitude": 59.520878,
+                "longitude": 17.8990206
+            },
+            "Rotebro": {
+                "latitude": 59.4758766,
+                "longitude": 17.9146441
+            },
+            "Norrviken": {
+                "latitude": 59.4591148,
+                "longitude": 17.9242787
+            },
+            "Häggvik": {
+                "latitude": 59.4437915,
+                "longitude": 17.9328751
+            },
+            "Sollentuna": {
+                "latitude": 59.4283893,
+                "longitude": 17.94845
+            },
+            "Helenelund": {
+                "latitude": 59.4090374,
+                "longitude": 17.9623526
+            },
+            "Ulriksdal": {
+                "latitude": 59.3807703,
+                "longitude": 18.0003755
+            },
+            "Solna": {
+                "latitude": 59.3664864,
+                "longitude": 18.0096279
+            },
+            "Stockholm Odenplan": {
+                "latitude": 59.3434553,
+                "longitude": 18.0455108
+            },
+            "Stockholm City": {
+                "latitude": 59.3319942,
+                "longitude": 18.0589031
+            },
+            "Stockholms södra": {
+                "latitude": 59.3133461,
+                "longitude": 18.0605613
+            },
+            "Årstaberg": {
+                "latitude": 59.2996092,
+                "longitude": 18.0280784
+            },
+            "Älvsjö": {
+                "latitude": 59.2785472,
+                "longitude": 18.011089
+            },
+            "Farsta strand": {
+                "latitude": 59.2366383,
+                "longitude": 18.1032864
+            },
+            "Trångsund": {
+                "latitude": 59.2278113,
+                "longitude": 18.1303869
+            },
+            "Skogås": {
+                "latitude": 59.2195725,
+                "longitude": 18.153161
+            },
+            "Vega": {
+                "latitude": 59.186415,
+                "longitude": 18.1356805
+            },
+            "Handen": {
+                "latitude": 59.1664396,
+                "longitude": 18.1340615
+            },
+            "Jordbro": {
+                "latitude": 59.1422579,
+                "longitude": 18.1264944
+            },
+            "Västerhaninge": {
+                "latitude": 59.1230679,
+                "longitude": 18.1033791
+            },
+            "Krigslida": {
+                "latitude": 59.1087788,
+                "longitude": 18.0651854
+            },
+            "Tungelsta": {
+                "latitude": 59.1026727,
+                "longitude": 18.0456621
+            },
+            "Hemfosa": {
+                "latitude": 59.068284,
+                "longitude": 17.9756192
+            },
+            "Segersäng": {
+                "latitude": 59.0288861,
+                "longitude": 17.9267403
+            },
+            "Ösmo": {
+                "latitude": 58.9839991,
+                "longitude": 17.9026344
+            },
+            "Nynäsgård": {
+                "latitude": 58.9139283,
+                "longitude": 17.9425777
+            },
+            "Gröndalsviken": {
+                "latitude": 58.8991775,
+                "longitude": 17.9318806
+            },
+            "Nynäshamn": {
+                "latitude": 58.9008517,
+                "longitude": 17.9508789
+            }
+        },
+        "Linje 43": {
+            "Bålsta": {
+                "latitude": 59.5687344,
+                "longitude": 17.5328901
+            },
+            "Bro": {
+                "latitude": 59.5122927,
+                "longitude": 17.6328474
+            },
+            "Kungsängen": {
+                "latitude": 59.4777776,
+                "longitude": 17.752136
+            },
+            "Kallhäll": {
+                "latitude": 59.4522794,
+                "longitude": 17.8072383
+            },
+            "Jakobsberg": {
+                "latitude": 59.4238735,
+                "longitude": 17.8329911
+            },
+            "Barkarby": {
+                "latitude": 59.4051955,
+                "longitude": 17.8643513
+            },
+            "Spånga": {
+                "latitude": 59.3836259,
+                "longitude": 17.8981821
+            },
+            "Sundbyberg": {
+                "latitude": 59.3607417,
+                "longitude": 17.9718708
+            },
+            "Stockholm Odenplan": {
+                "latitude": 59.3434553,
+                "longitude": 18.0455108
+            },
+            "Stockholm City": {
+                "latitude": 59.3319942,
+                "longitude": 18.0589031
+            },
+            "Stockholms södra": {
+                "latitude": 59.3133461,
+                "longitude": 18.0605613
+            },
+            "Årstaberg": {
+                "latitude": 59.2996092,
+                "longitude": 18.0280784
+            },
+            "Älvsjö": {
+                "latitude": 59.2785472,
+                "longitude": 18.011089
+            },
+            "Farsta strand": {
+                "latitude": 59.2366383,
+                "longitude": 18.1032864
+            },
+            "Trångsund": {
+                "latitude": 59.2278113,
+                "longitude": 18.1303869
+            },
+            "Skogås": {
+                "latitude": 59.2195725,
+                "longitude": 18.153161
+            },
+            "Vega": {
+                "latitude": 59.186415,
+                "longitude": 18.1356805
+            },
+            "Handen": {
+                "latitude": 59.1664396,
+                "longitude": 18.1340615
+            },
+            "Jordbro": {
+                "latitude": 59.1422579,
+                "longitude": 18.1264944
+            },
+            "Västerhaninge": {
+                "latitude": 59.1230679,
+                "longitude": 18.1033791
+            },
+            "Krigslida": {
+                "latitude": 59.1087788,
+                "longitude": 18.0651854
+            },
+            "Tungelsta": {
+                "latitude": 59.1026727,
+                "longitude": 18.0456621
+            },
+            "Hemfosa": {
+                "latitude": 59.068284,
+                "longitude": 17.9756192
+            },
+            "Segersäng": {
+                "latitude": 59.0288861,
+                "longitude": 17.9267403
+            },
+            "Ösmo": {
+                "latitude": 58.9839991,
+                "longitude": 17.9026344
+            },
+            "Nynäsgård": {
+                "latitude": 58.9139283,
+                "longitude": 17.9425777
+            },
+            "Gröndalsviken": {
+                "latitude": 58.8991775,
+                "longitude": 17.9318806
+            },
+            "Nynäshamn": {
+                "latitude": 58.9008517,
+                "longitude": 17.9508789
+            }
+        },
+        "Linje 44": {
+            "Bro": {
+                "latitude": 59.5122927,
+                "longitude": 17.6328474
+            },
+            "Kungsängen": {
+                "latitude": 59.4777776,
+                "longitude": 17.752136
+            },
+            "Kallhäll": {
+                "latitude": 59.4522794,
+                "longitude": 17.8072383
+            },
+            "Jakobsberg": {
+                "latitude": 59.4238735,
+                "longitude": 17.8329911
+            },
+            "Barkarby": {
+                "latitude": 59.4051955,
+                "longitude": 17.8643513
+            },
+            "Spånga": {
+                "latitude": 59.3836259,
+                "longitude": 17.8981821
+            },
+            "Sundbyberg": {
+                "latitude": 59.3607417,
+                "longitude": 17.9718708
+            },
+            "Stockholm Odenplan": {
+                "latitude": 59.3434553,
+                "longitude": 18.0455108
+            },
+            "Stockholm City": {
+                "latitude": 59.3319942,
+                "longitude": 18.0589031
+            },
+            "Stockholms södra": {
+                "latitude": 59.3133461,
+                "longitude": 18.0605613
+            },
+            "Årstaberg": {
+                "latitude": 59.2996092,
+                "longitude": 18.0280784
+            },
+            "Älvsjö": {
+                "latitude": 59.2785472,
+                "longitude": 18.011089
+            }
+        },
+        "Linje 48": {
+            "Södertälje C": {
+                "latitude": 59.1915963,
+                "longitude": 17.6277049
+            },
+            "Södertälje hamn": {
+                "latitude": 59.1784463,
+                "longitude": 17.6469248
+            },
+            "Södertälje syd": {
+                "latitude": 59.1634257,
+                "longitude": 17.6454728
+            },
+            "Järna": {
+                "latitude": 59.0936039,
+                "longitude": 17.5678407
+            },
+            "Mölnbo": {
+                "latitude": 59.0474226,
+                "longitude": 17.4183844
+            },
+            "Gnesta": {
+                "latitude": 59.0485936,
+                "longitude": 17.3122202
+            }
+        }
+    },
+    "spårvagn_lokalbana": {
+        "Linje 7": {
+            "T-Centralen": {
+                "latitude": 59.33206585,
+                "longitude": 18.061962450000003
+            },
+            "Kungsträdgården": {
+                "latitude": 59.3327467,
+                "longitude": 18.07062205
+            },
+            "Nybroplan": {
+                "latitude": 59.332709699999995,
+                "longitude": 18.07661525
+            },
+            "Styrmansgatan": {
+                "latitude": 59.33155755,
+                "longitude": 18.084139899999997
+            },
+            "Djurgårdsbron": {
+                "latitude": 59.3317983,
+                "longitude": 18.0925472
+            },
+            "Nordiska museet/Vasamuseet": {
+                "latitude": 59.3292802,
+                "longitude": 18.095466000000002
+            },
+            "Liljevalchs/Gröna Lund": {
+                "latitude": 59.32508905,
+                "longitude": 18.0972096
+            },
+            "Skansen": {
+                "latitude": 59.3239058,
+                "longitude": 18.100657849999997
+            },
+            "Djurgårdsskolan": {
+                "latitude": 59.323218,
+                "longitude": 18.10489965
+            },
+            "Bellmansro": {
+                "latitude": 59.324048,
+                "longitude": 18.1109108
+            },
+            "Waldemarsudde": {
+                "latitude": 59.3226325,
+                "longitude": 18.1112549
+            }
+        },
+        "Linje 12": {
+            "Nockeby": {
+                "latitude": 59.3287134,
+                "longitude": 17.9184262
+            },
+            "Nockeby torg": {
+                "latitude": 59.3290242,
+                "longitude": 17.92836715
+            },
+            "Olovslund": {
+                "latitude": 59.327913800000005,
+                "longitude": 17.93524565
+            },
+            "Höglandstorget": {
+                "latitude": 59.3233326,
+                "longitude": 17.940072450000002
+            },
+            "Ålstens gård": {
+                "latitude": 59.320612600000004,
+                "longitude": 17.95197175
+            },
+            "Ålstensgatan": {
+                "latitude": 59.323420150000004,
+                "longitude": 17.95644025
+            },
+            "Smedslätten": {
+                "latitude": 59.3208947,
+                "longitude": 17.9641496
+            },
+            "Klövervägen": {
+                "latitude": 59.32503475,
+                "longitude": 17.9737956
+            },
+            "Alléparken": {
+                "latitude": 59.32900855,
+                "longitude": 17.974252
+            },
+            "Alvik": {
+                "latitude": 59.3335898,
+                "longitude": 17.9801705
+            }
+        },
+        "Linje 21": {
+            "Ropsten": {
+                "latitude": 59.3581022,
+                "longitude": 18.1038447
+            },
+            "Torsvik": {
+                "latitude": 59.3617513,
+                "longitude": 18.1180071
+            },
+            "Baggeby": {
+                "latitude": 59.3569838,
+                "longitude": 18.1330678
+            },
+            "Bodal": {
+                "latitude": 59.3538682,
+                "longitude": 18.1381566
+            },
+            "Larsberg": {
+                "latitude": 59.3506744,
+                "longitude": 18.1456148
+            },
+            "AGA": {
+                "latitude": 59.3465413,
+                "longitude": 18.1554702
+            },
+            "Skärsätra": {
+                "latitude": 59.3433819,
+                "longitude": 18.1702669
+            },
+            "Kottla": {
+                "latitude": 59.3444157,
+                "longitude": 18.1798131
+            },
+            "Högberga": {
+                "latitude": 59.3442529,
+                "longitude": 18.1937608
+            },
+            "Brevik": {
+                "latitude": 59.3483946,
+                "longitude": 18.2038845
+            },
+            "Käppala": {
+                "latitude": 59.3527648,
+                "longitude": 18.2178864
+            },
+            "Gåshaga": {
+                "latitude": 59.3567104,
+                "longitude": 18.2277156
+            },
+            "Gåshaga brygga": {
+                "latitude": 59.3568916,
+                "longitude": 18.2337724
+            }
+        },
+        "Linje 25": {
+            "Slussen": {
+                "latitude": 59.3193166,
+                "longitude": 18.0722002
+            },
+            "Henriksdal": {
+                "latitude": 59.3121157,
+                "longitude": 18.1083806
+            },
+            "Sickla": {
+                "latitude": 59.3068049,
+                "longitude": 18.1213049
+            },
+            "Nacka": {
+                "latitude": 59.3065199,
+                "longitude": 18.1305626
+            },
+            "Saltsjö-Järla": {
+                "latitude": 59.3067974,
+                "longitude": 18.1493714
+            },
+            "Lillängen": {
+                "latitude": 59.305085,
+                "longitude": 18.1616845
+            },
+            "Storängen": {
+                "latitude": 59.3056073,
+                "longitude": 18.1779567
+            },
+            "Saltsjö-Duvnäs": {
+                "latitude": 59.3005806,
+                "longitude": 18.1984421
+            },
+            "Östervik": {
+                "latitude": 59.294913,
+                "longitude": 18.2352468
+            },
+            "Fisksätra": {
+                "latitude": 59.2940913,
+                "longitude": 18.255715
+            },
+            "Igelboda": {
+                "latitude": 59.2900153,
+                "longitude": 18.27535
+            },
+            "Neglinge": {
+                "latitude": 59.2884353,
+                "longitude": 18.2923067
+            },
+            "Ringvägen": {
+                "latitude": 59.2830858,
+                "longitude": 18.3022566
+            },
+            "Saltsjöbaden": {
+                "latitude": 59.2790314,
+                "longitude": 18.3122854
+            }
+        },
+        "Linje 26": {
+            "Igelboda": {
+                "latitude": 59.2900153,
+                "longitude": 18.27535
+            },
+            "Tippen": {
+                "latitude": 59.2841871,
+                "longitude": 18.2773237
+            },
+            "Tattby": {
+                "latitude": 59.2790313,
+                "longitude": 18.2820021
+            },
+            "Erstaviksbadet": {
+                "latitude": 59.2727682,
+                "longitude": 18.2854004
+            },
+            "Solsidan": {
+                "latitude": 59.2708945,
+                "longitude": 18.2960306
+            }
+        },
+        "Linje 27": {
+            "Kårsta": {
+                "latitude": 59.6567588,
+                "longitude": 18.2675815
+            },
+            "Ekskogen": {
+                "latitude": 59.6389908,
+                "longitude": 18.2262771
+            },
+            "Frösunda": {
+                "latitude": 59.6241393,
+                "longitude": 18.1704895
+            },
+            "Lindholmen": {
+                "latitude": 59.5841189,
+                "longitude": 18.109256
+            },
+            "Molnby": {
+                "latitude": 59.557783,
+                "longitude": 18.0853233
+            },
+            "Ormsta": {
+                "latitude": 59.5460577,
+                "longitude": 18.0795425
+            },
+            "Vallentuna": {
+                "latitude": 59.5341725,
+                "longitude": 18.0800629
+            },
+            "Bällsta": {
+                "latitude": 59.5230232,
+                "longitude": 18.0720524
+            },
+            "Kragstalund": {
+                "latitude": 59.5101337,
+                "longitude": 18.0757633
+            },
+            "Täby kyrkby": {
+                "latitude": 59.4930158,
+                "longitude": 18.0662817
+            },
+            "Visinge": {
+                "latitude": 59.4626123,
+                "longitude": 18.0631771
+            },
+            "Ensta": {
+                "latitude": 59.4513832,
+                "longitude": 18.0635554
+            },
+            "Tibble": {
+                "latitude": 59.442187,
+                "longitude": 18.0626017
+            },
+            "Roslags Näsby": {
+                "latitude": 59.4354907,
+                "longitude": 18.0579594
+            },
+            "Djursholms Ösby": {
+                "latitude": 59.3981659,
+                "longitude": 18.0588547
+            },
+            "Mörby": {
+                "latitude": 59.3922177,
+                "longitude": 18.0473115
+            },
+            "Universitetet": {
+                "latitude": 59.3650702,
+                "longitude": 18.0510256
+            },
+            "Stockholms östra": {
+                "latitude": 59.3465554,
+                "longitude": 18.0706402
+            }
+        },
+        "Linje 28": {
+            "Österskär": {
+                "latitude": 59.4611597,
+                "longitude": 18.3112143
+            },
+            "Tunagård": {
+                "latitude": 59.4691085,
+                "longitude": 18.3073425
+            },
+            "Åkersberga": {
+                "latitude": 59.479126,
+                "longitude": 18.2988158
+            },
+            "Åkers Runö": {
+                "latitude": 59.4806333,
+                "longitude": 18.2703817
+            },
+            "Täljö": {
+                "latitude": 59.4731136,
+                "longitude": 18.2353199
+            },
+            "Rydbo": {
+                "latitude": 59.4653971,
+                "longitude": 18.1856084
+            },
+            "Hägernäs": {
+                "latitude": 59.4509569,
+                "longitude": 18.1247458
+            },
+            "Viggbyholm": {
+                "latitude": 59.4492891,
+                "longitude": 18.1043825
+            },
+            "Galoppfältet": {
+                "latitude": 59.4468214,
+                "longitude": 18.0845647
+            },
+            "Täby centrum": {
+                "latitude": 59.444345,
+                "longitude": 18.0747975
+            },
+            "Roslags Näsby": {
+                "latitude": 59.4354907,
+                "longitude": 18.0579594
+            },
+            "Enebyberg": {
+                "latitude": 59.425765,
+                "longitude": 18.0512506
+            },
+            "Djursholms Ekeby": {
+                "latitude": 59.413029,
+                "longitude": 18.0575752
+            },
+            "Bråvallavägen": {
+                "latitude": 59.4053485,
+                "longitude": 18.060485
+            },
+            "Djursholms Ösby": {
+                "latitude": 59.3981659,
+                "longitude": 18.0588547
+            },
+            "Mörby": {
+                "latitude": 59.3922177,
+                "longitude": 18.0473115
+            },
+            "Universitetet": {
+                "latitude": 59.3650702,
+                "longitude": 18.0510256
+            },
+            "Stockholms östra": {
+                "latitude": 59.3465554,
+                "longitude": 18.0706402
+            }
+        },
+        "Linje 29": {
+            "Näsbypark": {
+                "latitude": 59.4301914,
+                "longitude": 18.0954758
+            },
+            "Näsby allé": {
+                "latitude": 59.4273341,
+                "longitude": 18.0850399
+            },
+            "Lahäll": {
+                "latitude": 59.4241922,
+                "longitude": 18.0742831
+            },
+            "Altorp": {
+                "latitude": 59.4106978,
+                "longitude": 18.0729067
+            },
+            "Östberga": {
+                "latitude": 59.4040282,
+                "longitude": 18.0738965
+            },
+            "Vendevägen": {
+                "latitude": 59.3998224,
+                "longitude": 18.0678065
+            },
+            "Djursholms Ösby": {
+                "latitude": 59.3981659,
+                "longitude": 18.0588547
+            },
+            "Mörby": {
+                "latitude": 59.3922177,
+                "longitude": 18.0473115
+            },
+            "Stocksund": {
+                "latitude": 59.3848157,
+                "longitude": 18.0437704
+            },
+            "Universitetet": {
+                "latitude": 59.3650702,
+                "longitude": 18.0510256
+            },
+            "Stockholms östra": {
+                "latitude": 59.3465554,
+                "longitude": 18.0706402
+            }
+        },
+        "Linje 30": {
+            "Solna station": {
+                "latitude": 59.3639072,
+                "longitude": 18.0085444
+            },
+            "Solna centrum": {
+                "latitude": 59.3613158,
+                "longitude": 17.9961352
+            },
+            "Solna Business Park": {
+                "latitude": 59.3594181,
+                "longitude": 17.9795446
+            },
+            "Sundbybergs centrum": {
+                "latitude": 59.3610458,
+                "longitude": 17.96976
+            },
+            "Bällsta bro": {
+                "latitude": 59.3606931,
+                "longitude": 17.9629665
+            },
+            "Karlsbodavägen": {
+                "latitude": 59.35589,
+                "longitude": 17.9612725
+            },
+            "Norra Ulvsunda": {
+                "latitude": 59.3502908,
+                "longitude": 17.9622131
+            },
+            "Johannesfred": {
+                "latitude": 59.3427655,
+                "longitude": 17.9696824
+            },
+            "Alvik": {
+                "latitude": 59.3335898,
+                "longitude": 17.9801705
+            },
+            "Alviks strand": {
+                "latitude": 59.328934,
+                "longitude": 17.9822253
+            },
+            "Stora Essingen": {
+                "latitude": 59.3247646,
+                "longitude": 17.9931261
+            },
+            "Gröndal": {
+                "latitude": 59.3157981,
+                "longitude": 18.0104207
+            },
+            "Trekanten": {
+                "latitude": 59.314194,
+                "longitude": 18.0180734
+            },
+            "Liljeholmen": {
+                "latitude": 59.3108174,
+                "longitude": 18.0244602
+            },
+            "Årstadal": {
+                "latitude": 59.3058267,
+                "longitude": 18.0255948
+            },
+            "Årstaberg": {
+                "latitude": 59.2992429,
+                "longitude": 18.029675
+            },
+            "Årstafältet": {
+                "latitude": 59.296347,
+                "longitude": 18.0395896
+            },
+            "Valla torg": {
+                "latitude": 59.2950338,
+                "longitude": 18.0484675
+            },
+            "Linde": {
+                "latitude": 59.2932582,
+                "longitude": 18.0635621
+            },
+            "Globen": {
+                "latitude": 59.2941818,
+                "longitude": 18.0764908
+            },
+            "Gullmarsplan": {
+                "latitude": 59.299452,
+                "longitude": 18.0802581
+            },
+            "Mårtensdal": {
+                "latitude": 59.3026667,
+                "longitude": 18.0879647
+            },
+            "Luma": {
+                "latitude": 59.3041768,
+                "longitude": 18.0958839
+            },
+            "Sickla kaj": {
+                "latitude": 59.3027383,
+                "longitude": 18.1035806
+            },
+            "Sickla udde": {
+                "latitude": 59.3062488,
+                "longitude": 18.1088305
+            },
+            "Sickla": {
+                "latitude": 59.3068354,
+                "longitude": 18.1207884
+            }
+        },
+        "Linje 31": {
+            "Bromma flygplats": {
+                "latitude": 59.3570288,
+                "longitude": 17.9467785
+            },
+            "Bromma Blocks": {
+                "latitude": 59.3538817,
+                "longitude": 17.9567885
+            },
+            "Norra Ulvsunda": {
+                "latitude": 59.3502908,
+                "longitude": 17.9622131
+            },
+            "Johannesfred": {
+                "latitude": 59.3427655,
+                "longitude": 17.9696824
+            },
+            "Alvik": {
+                "latitude": 59.3335898,
+                "longitude": 17.9801705
+            },
+            "Alviks strand": {
+                "latitude": 59.328934,
+                "longitude": 17.9822253
+            }
+        }
+    }
+}
