@@ -1,5 +1,3 @@
-"""
-"""
 import json
 
 import plotly.graph_objects as go
@@ -8,14 +6,14 @@ import config
 
 
 class Karta:
-    """
+    """Class to create a map showing Stockholm's rail lines and 
+    stations using OpenStreetMap data.
     """
     def __init__(self):
         pass
     
     def read_data(self):
-        """
-        """
+        """Read JSON files containing data to be plotted."""
         with open('linje_information.json', 'r') as file:
             self.linje_information = json.load(file)
         
@@ -24,7 +22,10 @@ class Karta:
             
         
     def plot_map(self):
-        """
+        """Plot a map to show railway lines and stations.
+        
+        The map uses lines and markers to represent each rail line and
+        its stations. The plot uses Mapbox and is saved as an HTML file.
         """
         mapbox_access_token = config.mapbox_access_token
         
